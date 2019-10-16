@@ -1,0 +1,27 @@
+.wrapper {
+    width: 100%;
+}
+
+.art_wrapper {
+    width: 100%;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.img_wrapper {
+    width: 100%;
+    max-width: 300px;
+}
+
+.left_img {
+    float: left;
+    margin: 0 20px 0 0;
+}
+
+.center_img {
+    text-align: center;
+}
+
+.cont_center {
+    text-align: center;
+}
